@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * @author Administrator
  * @Auther: bullet
- * @Description: com.wxy.service.Bill
  * @version: 1.0
  */
 public class BillServiceImpl implements BillService {
